@@ -5,6 +5,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 import os
 from dotenv import load_dotenv
+from data import load_vectorstore, get_relevant_context, create_and_save_vectorstore
 
 load_dotenv()
 
@@ -18,9 +19,36 @@ templates = Jinja2Templates(directory="templates")
 
 chat_responses = []
 
+try:
+    vectorstore = load_vectorstore()
+    print("Vector store loaded successfully!")
+except:
+    print("Vector store not found, creating new one...")
+    vectorstore = create_and_save_vectorstore()
+
+chat_log = [{'role': 'system', 'content': 'You are a virtual assistant of Ajman University, dedicated to help prospective and enrolled students. You will answer student inquiries about admision fees, tuition fees, application procedures, scholarships, and related information. You may only answer academia related questions, specifically questions related to Ajman University. Any question that is not related to Ajman University is considered out of your scope, and you may not answer.'}]
 
 
-chat_log = [{'role': 'system', 'content': 'You are a virtual assistant of Ajman University, dedicated to help prospective and enrolled students. You will answer student inquiries about admision fees, tuition fees, application procedures, scholarships, and related information. You may only answer academia related questions, specifically questions related to Ajman University.       Any question that is not related to Ajman University is considered out of your scope, and you may not answer.'}]
+
+def create_contextual_message(user_input):
+    """Create a message with relevant context from the knowledge base"""
+    # Get relevant context from vector store
+    context = get_relevant_context(user_input, vectorstore, k=3)
+    
+    # Create enhanced message with context
+    contextual_message = f"""Context from Ajman University documents:
+{context}
+
+User question: {user_input}
+
+Please answer the user's question using the provided context. If the context doesn't contain relevant information, let the user know that you don't have specific information about their query in your knowledge base."""
+    
+    return contextual_message
+
+
+
+
+
 
 
 
