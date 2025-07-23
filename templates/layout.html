@@ -11,7 +11,23 @@
 
     <title>Chatbot</title>
     <style>
+
     .chat-history {
+    text-align: left;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    /* Fix: set max-height, adjust value as needed */
+    max-height: 60vh;
+    min-height: 200px;
+    margin-bottom: 80px; /* Space for footer */
+}
+.container.mt-5 {
+    padding-bottom: 100px; /* To prevent overlap with footer */
+}
+
+    /* .chat-history {
     text-align: left;
     width: 100%;
     display: flex;
@@ -21,7 +37,7 @@
     .chat-message {
     width: fit-content;
     word-wrap: break-word;
-    }
+    } */
 
     .chat-message.user-input {
     background-color: #d0eaff; /* Light blue background */
@@ -40,10 +56,22 @@
     }
 
     #footer {
+    position: fixed;
+    bottom: 3%;
+    width: 95%;
+    background: white; /* Optional: so input doesn't overlap text behind it */
+    z-index: 1000;
+    left: 50%;
+    transform: translateX(-50%);
+    /* Add padding or box-shadow if desired */
+}
+
+/* 
+    #footer {
         position: fixed;
         bottom: 3%;
         width: 95%;
-    }
+    } */
 </style>
     </head>
     <body>

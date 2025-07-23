@@ -1,0 +1,45 @@
+URL: https://www.ajman.ac.ae/en/research/using-metal-oxide-composite-nanostructures-for-sustainable-energy-production
+CONTENT:
+Using Metal Oxide Composite Nanostructures for Sustainable Energy Production
+Menu
+Dean's Message
+Contact Information
+Research at AU
+Research Strategy
+Vision, Mission and Goals
+DRG Councils
+Publications
+Research Policies and Procedures
+Research Spotlight
+Info for Research Collaborations
+Local/Regional Research Competitions
+Research Ethics Committee
+Research Centers
+Graduate Studies
+Using Metal Oxide Composite Nanostructures for Sustainable Energy Production
+Researcher: Dr. E.A. Dawi, Associate Professor, Department of Mathematics and Science, College of Humanities and Science, AU.
+Field of Specialization
+: Nanoscale materials and their optical, electrical, and physical applications in Sustainable development.
+Introduction
+Sun radiation (insolation) is the most sustainable and clean source of energy available to humans on earth. In fact, the sun emits about 3.86 x 10
+26
+watts of power, and clearly this is an unimaginably large amount of energy. Out of this relatively very large amount, about 174,000 terawatts (TW, one TW equals 10
+12
+watts, or 10
+12
+joules per second) of insolation energy falls on earth. 30% of it is reflected back and scattered to the outer space by the upper atmosphere, and the remaining 70% reaches the surface of the earth. At present, the utilization of the energy emitted from the sun to the earth is far from being satisfactory. The utilization of insolation energy is currently limited mainly to the development of photovoltaic cells. Even the contribution of photovoltaic cells for the production of electricity remains relatively low in the overall energy consumption. It is predicted that by 2050 the use of photovoltaic cells can reach 20% of the total electricity consumption worldwide.
+This project synthesizes and studies Composite Metal Oxides (CMO) nanomaterials for efficient visible sunlight driven photo-electro-chemical processes. The targeted application is the sun visible light (insolation) driven photo-electrochemical (PEC) water splitting for hydrogen production as a clean energy source.
+Research Summary
+The research demonstrates the technological hindrances and challenges in the development of large-scale utilization of water splitting for hydrogen gas production driven by solar radiation: (i) the development of stable, efficient, and visible light driven photocatalyst from earth abundant materials for water splitting. (ii) development of a technology to instantly separate hydrogen form oxygen, (iii) development of new materials with acceptable capacity to store hydrogen, and finally, (iv) development of a large-scale catalyst for reduction of carbon dioxide for producing methane from the produced hydrogen. This last challenge is of importance as it will lead to produce low-cost liquid methanol fuel.
+Together with international collaborators at Linköping University (Sweden), Ecole Polytechnique (France), and the Utrecht University (the Netherlands), the researchers have access to all types of tools to perform this project. In addition, a state-of-the-art clean room is available at ITN Campus Norrköping, Linköping University that is suitable for synthesizing the needed material to build the electrochemical electrodes. The research is now focused on the design of the core-shell nanorods as a choice which will depend on bandgap engineering (band edge alignment) to increase the catalytic activity of the electrode and the choice of the shell requires that the material should be resistive to corrosion.
+Research Objectives
+The design and fabrication of novel nano-compound nanocrystals (NCs) based on compound metal oxides (CMOs) with predefined structural, optical and electronic properties, e.g. with suitable band gap for overall water slitting.
+Studying and analysing the (i) electron-hole photo-generation using insolation using the developed CMOs nanostructure electrodes, (ii) investigating the charge separation and migration, and (iii) analysing and evaluating the reduction oxidation (Redox) water at the surface of the CMOs nanostructures-based electrodes.
+Based on the task before, optimization of the synthesized CMOs nanostructures to satisfy the three conditions of practical efficient material for sun insolation driven overall water splitting will be performed.
+The development of practical approaches for the overall efficient water splitting to form both stoichiometric H
+2
+and O
+2
+under insolation utilization the synthesized CMOs NCs based electrode.
+Research Impact
+The project represents an ideal, and innovative approach for realization of clean and renewable energy resources for which semiconductor photocatalysis has drawn considerable attention. In addition, efficient oxidation-reduction could be achieved. Additionally, visible light induced photo-catalysis and their catalytic properties along with their chemical, structural and electronic surface composition represent multi-sustainable solution for environment recovery and climate change resistance solutions.

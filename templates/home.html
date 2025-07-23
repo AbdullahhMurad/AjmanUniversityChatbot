@@ -25,10 +25,12 @@
         </div>
     </div>
 </div>
-
 <script>
     var websocketString = '';
-    if (window.location.hostname === '127.0.0.1') {
+    if (
+        window.location.hostname === '127.0.0.1' ||
+        window.location.hostname === 'localhost'
+    ) {
         websocketString = "ws://localhost:8000/ws";
     } else {
         websocketString = `wss://${window.location.hostname}/ws`;
@@ -42,14 +44,28 @@
     var lastUserMessageDiv = null;
     var isNewUserInput = true;
 
+    // Disable send button until WebSocket connects
+    sendButton.disabled = true;
+    ws.onopen = function() {
+        sendButton.disabled = false;
+    };
+
+    ws.onerror = function(event) {
+        alert("WebSocket error or server not available.");
+        sendButton.disabled = true;
+    };
+
+    ws.onclose = function(event) {
+        alert("WebSocket connection closed.");
+        sendButton.disabled = true;
+    };
+
     ws.onmessage = function (event) {
         var message = event.data;
 
         if (lastUserMessageDiv && !isNewUserInput) {
-            // Append next chunk without inserting extra space
             lastUserMessageDiv.textContent += message;
         } else {
-            // Start of new AI message
             var messageDiv = document.createElement("div");
             messageDiv.className = "chat-message ai-response";
             messageDiv.textContent = message;
@@ -57,22 +73,32 @@
             lastUserMessageDiv = messageDiv;
             isNewUserInput = false;
         }
+        chatHistory.scrollTop = chatHistory.scrollHeight;
     };
 
-    sendButton.onclick = function () {
+    function sendUserMessage() {
         var message = userInput.value.trim();
-        if (message) {
-            var userInputDiv = document.createElement("div");
-            userInputDiv.className = "chat-message user-input";
-            userInputDiv.textContent = message;
-            chatHistory.appendChild(userInputDiv);
+        if (!message || ws.readyState !== WebSocket.OPEN) return;
 
-            chatHistory.scrollTop = chatHistory.scrollHeight;
+        var userInputDiv = document.createElement("div");
+        userInputDiv.className = "chat-message user-input";
+        userInputDiv.textContent = message;
+        chatHistory.appendChild(userInputDiv);
 
-            ws.send(message);
-            userInput.value = "";
-            isNewUserInput = true;
-            lastUserMessageDiv = null;
+        chatHistory.scrollTop = chatHistory.scrollHeight;
+
+        ws.send(message);
+        userInput.value = "";
+        isNewUserInput = true;
+        lastUserMessageDiv = null;
+    }
+
+    sendButton.onclick = sendUserMessage;
+
+    userInput.addEventListener("keydown", function(event) {
+        if (event.key === "Enter") {
+            sendUserMessage();
+            event.preventDefault();
         }
-    };
+    });
 </script>

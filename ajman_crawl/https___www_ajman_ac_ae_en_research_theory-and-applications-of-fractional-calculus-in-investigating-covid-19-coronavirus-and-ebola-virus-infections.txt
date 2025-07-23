@@ -1,0 +1,36 @@
+URL: https://www.ajman.ac.ae/en/research/theory-and-applications-of-fractional-calculus-in-investigating-covid-19-coronavirus-and-ebola-virus-infections
+CONTENT:
+Theory and applications of Fractional Calculus in Investigating Covid-19 Coronavirus and Ebola Virus Infections
+Menu
+Dean's Message
+Contact Information
+Research at AU
+Research Strategy
+Vision, Mission and Goals
+DRG Councils
+Publications
+Research Policies and Procedures
+Research Spotlight
+Info for Research Collaborations
+Local/Regional Research Competitions
+Research Ethics Committee
+Research Centers
+Graduate Studies
+Theory and applications of Fractional Calculus in Investigating Covid-19 Coronavirus and Ebola Virus Infections
+Researcher:
+Dr. Samir Bashir Hadid, Professor, Department of Mathematics and Science, College of Humanities and Science, Ajman University.
+Field of Specialization:
+Fractional Differential Equations (FDE) with Applications.
+Introduction
+Fractional calculus (fractional differentiation and integrations) is a generalization of ordinary calculus to arbitrary non-integer orders. The origin of fractional calculus goes back to Newton and Leibniz in the 17th century. It is widely and efficiently used to describe many phenomena arising in engineering, physics, economy, biology, and science.
+Research Summary
+The research focus is on both the theory and applications of Fractional Calculus. It explores the existence and uniqueness of solutions of FDE and uses the fixed-point theorem and functional analysis technique. In applications, the research focuses on various physical systems, visco-elasticity, electrical circuits, different branches of physics, economics, chemistry, biological sciences, human brain segmentation, Covid-19, biological dynamics systems, engineering possessions, control systems, signal processing, and bio-molecular communication networks.
+Research Objectives
+Develop a novel fractional calculus model for a detection and segmentation model for Covid-19 Coronavirus, in CT Lung Scans.
+Investigate the dynamics of the Ebola virus infection model.
+Study the fractional TB model involving mycobacterium tuberculosis bacteria.
+Construct a fractional nonlinear evolution system of Four-Wave-Interaction-Equations.
+Formulate a new 2D-parameter differential operator (PDO) of a class of multivalent functions in the open unit disk.
+Investigate a fractional system of integro-differential equations, which covers the subtleties of the diffusion between infected and asymptomatic cases of the dynamic of the growth of microbe.
+Research Impact
+The impact of the resulting research is the development of the theory of fractional calculus with its applications to the many problems in engineering, science and health. The findings of this research are highly beneficial for researchers in this field, as well as for PhD students. They provide an understanding of the biological processes that underpin improvements in new treatments or diagnoses for COVID-19 and other viruses, and have ramifications across health, industry and economy. All results of this research will be published in the journal, Scopus Q1 and Q2.

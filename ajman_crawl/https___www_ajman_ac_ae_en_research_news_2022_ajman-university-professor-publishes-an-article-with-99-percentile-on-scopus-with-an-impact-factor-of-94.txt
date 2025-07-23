@@ -1,0 +1,35 @@
+URL: https://www.ajman.ac.ae/en/research/news/2022/ajman-university-professor-publishes-an-article-with-99-percentile-on-scopus-with-an-impact-factor-of-9471
+CONTENT:
+Ajman University Professor publishes an article with 99 percentile on Scopus with an impact factor of 9.471 | Deanship of Research & Graduate Studies
+Menu
+Dean's Message
+Contact Information
+Research at AU
+Research Strategy
+Vision, Mission and Goals
+DRG Councils
+Publications
+Research Policies and Procedures
+Research Spotlight
+Info for Research Collaborations
+Local/Regional Research Competitions
+Research Ethics Committee
+Research Centers
+Graduate Studies
+Archive
+2025
+2024
+2023
+2022
+2021
+RSS
+Ajman University Professor publishes an article with 99 percentile on Scopus with an impact factor of 9.471
+Tuesday, Feb 22, 2022
+Prof. Rao Bin Rais, along with a team of researchers of University of Glasgow, UK has published a research article in IEEE Internet of Things Journal under the title “Context-Aware Wireless Connectivity and Processing Unit Optimization for IoT Networks”.
+IEEE Internet of Things Journal is a premier journal in the area of Electrical and Computer Engineering. It has the highest percentile of 99 at Scopus. It is ranked 2nd in the area of Hardware and Architecture at Scopus and ranked 6th in the area of Networks and Communications at Scopus. The journal is also listed in JCR-SCI list with an impact factor of 9.471.
+The research work is an outcome of Internal Research Grant project from Ajman University under the title “Artificial Intelligence Aided Radio Resource and Mobility Management for Future Cellular Networks” and Grant ID 2019-IRG-ENIT-8.
+The research presents a novel approach for context-aware connectivity and processing optimization of Internet of things (IoT) networks. The approach simultaneously selects the best connectivity and processing unit (e.g., device, fog, and cloud) along with the percentage of data to be offloaded by jointly optimizing energy consumption, response-time, security, and monetary cost. Advanced machine learning technique of reinforcement learning (Q-Learning) has been applied to perform this task and an optimized policy is obtained as a result of considering response-time, security and the remaining battery level of the devices. The total energy consumption of IoT devices, in terms of data processing and transmission is minimized by the algorithm along with the monetary cost while maintaining the desired quality.
+IEEE Internet of Things Journal is a premier journal in the area of Electrical and Computer Engineering. It has the highest percentile of 99 at Scopus. It is ranked 2nd in the area of Hardware and Architecture at Scopus and ranked 6th in the area of Networks and Communications at Scopus. The journal is also listed in JCR-SCI list with an impact factor of 9.471.
+The research work is an outcome of Internal Research Grant project from Ajman University under the title “Artificial Intelligence Aided Radio Resource and Mobility Management for Future Cellular Networks” and Grant ID 2019-IRG-ENIT-8.
+The research presents a novel approach for context-aware connectivity and processing optimization of Internet of things (IoT) networks. The approach simultaneously selects the best connectivity and processing unit (e.g., device, fog, and cloud) along with the percentage of data to be offloaded by jointly optimizing energy consumption, response-time, security, and monetary cost. Advanced machine learning technique of reinforcement learning (Q-Learning) has been applied to perform this task and an optimized policy is obtained as a result of considering response-time, security and the remaining battery level of the devices. The total energy consumption of IoT devices, in terms of data processing and transmission is minimized by the algorithm along with the monetary cost while maintaining the desired quality.
+Back to All News

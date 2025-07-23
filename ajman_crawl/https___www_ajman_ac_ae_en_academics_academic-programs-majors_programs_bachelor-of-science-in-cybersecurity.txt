@@ -1,0 +1,266 @@
+URL: https://www.ajman.ac.ae/en/academics/academic-programs-majors/programs/bachelor-of-science-in-cybersecurity
+CONTENT:
+Bachelor of Science (BSc) in Cybersecurity | Ajman University
+Menu
+Admissions
+Undergraduate
+Undergraduate Admission Process
+Undergraduate Student Catalog
+Tuition Fees
+Student Handbook
+Undergraduate Admission Policy
+Undergraduate Transfers
+Non-Degree
+Graduate
+Admissions Requirements
+Tuition Fees
+Graduate Student Catalog
+Student Handbook
+Graduate Admission Policy
+Graduate Transfers
+Why AU
+Office of Scholarship & Financial Aid
+Office of Student Recruitment
+Inquiry
+Academics
+Vice Chancellor for Academic Affairs
+Colleges
+Academic Programs and Majors
+Academic Calendar
+Center for Continuing Education and Enterprises (CCEE)
+Academic Advising
+Faculty Handbook
+Policies and Procedures Manual
+Teaching and Learning Center
+International Academic Affairs
+Library
+Research
+Dean's Message
+Contact Information
+Research Strategy
+Vision, Mission and Goals
+Research at AU
+DRG Councils
+Research Centers
+Publications
+Research Ethics Committee
+Info for Research Collaborations
+Graduate Studies at AU
+Research Policies and Procedures
+Research News
+Research Spotlight
+Student life
+Deanship of Student Services
+Office of Student Life
+Student Clubs and Organizations
+Fine Arts
+Leadership Programs
+Athletics
+Student Publications
+Office of Student Life Past Activites
+Counseling Unit
+Residence Life and Housing
+Residence Services
+Rooms and Fees
+Residents Guidelines
+Hostel Virtual Tour
+Past Hostel Activities
+Health Services
+Medical Clinic
+Medical Policy
+Medical Check up Instruction
+Staff Members
+Medical Check up Form
+Important Health Documents Links Procedures and Steps
+Health Services Past Activities
+Transportation Unit
+Student Success Center
+Peer Tutors
+Faculty Liaisons
+Student Support Resources
+SSC Past Activities
+Center For Inclusive Learning
+Media
+News
+Events
+Media Report
+AU Roundup
+From the Desk of the Chancellor
+About
+Our Story
+Mission, Vision and Values
+Diversity
+Board of Trustees
+Office of the Chancellor
+University Cabinet
+Accreditation, Rankings and Ratings
+Social Responsibility
+Strategic Plan 2022-2027
+Organization Chart
+Explore
+Fast Facts
+Educational Objectives
+Institutional Learning Outcomes
+Sustainability at AU
+Bachelor of Science in Cybersecurity
+Total # of Credit hours
+123
+Program Overview
+Program Mission
+The Bachelor of Science in Cybersecurity program aims to deliver a comprehensive education that empowers students to identify, analyze, and mitigate cyber threats. The program equips graduates with the technical expertise and strategic skills needed to design, implement, and manage robust cybersecurity solutions. By addressing the growing demand for highly skilled professionals, the program plays a vital role in safeguarding digital ecosystems.
+Program Education Objectives (Goals)
+Graduates of the Bachelor of Science in Cybersecurity program will exhibit the following characteristics within a few years of graduation:
+PEO#1: Graduates will apply their knowledge and skills in cybersecurity to design, implement, and manage effective solutions for protecting information systems, addressing complex industry challenges, and ensuring organizational security.
+PEO#2: Graduates will contribute effectively to the cybersecurity profession as individuals, team members, and leaders.
+PEO#3: Graduates will actively engage in lifelong learning, pursue career development, and participate in community service.
+PEO#4: Graduates will practice cybersecurity with professionalism, upholding ethical standards and considering societal responsibilities.
+Program Coordinator
+Dr. Qussai Yaseen (
+Profile
+)
+Admission Requirements
+High School Requirements (UAE Curriculum)
+60%Elite Track
+70% Advanced Track
+75% General Track
+Subject Proficiency Requirement:
+Full Admission:
+- A minimum score of 75% in Mathematics.
+Conditional Admisison:
+Applicants scoring less than 75% in Mathematics must pass a remedial course in the subject.
+English Requirements
+Full Admission:
+- A minimum score of 80% in the English subject, or its equivalent in other curriculums.
+Conditional Admission:
+Applicants scoring between 75% and 79% in the English subject will be conditionally admitted, provided they meet one of the following requirements:
+1) Pass a remedial English course during the first semester,
+or
+2) Submit an English proficiency test score before the start of the first semester:
+- TOEFL: 500 (61 iBT or 173 CBT); or
+- IELTS Academic: 5; or
+- IESOL: B1; or
+- Equivalent scores in other MOE-approved English proficiency tests (subject to evaluation).
+Equivalent qualifications from other educational systems are accepted, see Student Handbook for more details.
+For further information, please refer to
+the university admissions policy
+.
+Graduation Requirements
+To be eligible for the Bachelor of Science in Cybersecurity, students must fulfill the following requirements:
+Successfully complete 120 credit hours of coursework, typically over eight semesters (excluding summer semesters).
+Complete a 16-week internship, with a minimum of 30 contact hours per week, equivalent to 3 credit hours.
+Achieve a minimum cumulative GPA of 2.0 on a 4.0 scale.
+Career Opportunities
+Graduates of the Bachelor of Science in Cybersecurity program can expect to have a wide range of job opportunities across various industries.  Potential career paths include, but are not limited to:
+Information Security Analyst
+Network Security Engineer
+Cybersecurity Consultant
+Penetration Tester
+Security Software Developer
+Cryptographer
+Digital Forensic Analyst
+Security Architect
+Cybersecurity Policy Analyst
+Chief Information Security Officer (CISO)
+Curriculum Structure and Credit Hours
+The Bachelor of Science degree in Cybersecurity requires the completion of 120 credit hours of course work. In addition, the student is required to complete an internship program of 16 weeks (at least 30 contact hours per week) after completing 90 credit hours. This internship experience is equivalent to three credit hours making the total completion requirements as 123 credit hours.
+Program Learning Outcomes
+On successful completion of this Program, the graduate will be able to:
+PLO#1: Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
+PLO#2: Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+PLO#3: Communicate effectively in a variety of professional contexts.
+PLO#4: Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+PLO#5: Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+PLO#6: Apply security principles and practices to maintain operations in the presence of risks and threats.
+PLO#7: Discuss innovation, entrepreneurship, and sustainability practices in computing.
+Program Structure and Credit Hours
+Proposed Curriculum Structure and Credit Hours
+Study Plan
+Cybersecurity Security Four-year Interactive Study Plan
+Courses Descriptions
+Program Core Courses & Internship
+INT100 - Introductory Programming
+This course introduces students to the fundamentals of problem-solving and programming using the Java programming language. Topics include the problem-solving process, data types, variables and constants, scope and memory locations, sequential programming, basic input/output operations, selection and repetition control structures, arrays, strings, and user-defined functions.
+INT101 - Calculus
+This course covers the essential mathematical topics required for students specializing in information technology. Topics covered are plane analytic geometry, matrices and determinants; solution of  systems of linear equations, real functions, limits, continuity, differentiation and applications, integration, and graphs.
+STA114 - Statistics
+This course covers descriptive statistics, probability, axioms of probability, rules of probability, conditional probability and independence. Furthermore, it covers discrete and continuous random variables, expectation and probability distributions. Moreover, it includes sampling distributions, t-distribution and Chi-square, and F-distributions, and the CLT.
+INT201 - Object Oriented programming
+The primary objective of this course is to introduce the concepts of object-oriented programming, including classes, objects, methods, object interaction, encapsulation, inheritance, polymorphism, composition, recursive algorithms, and exception handling. This course does not provide a comprehensive introduction to all  Java concepts, such as applets and socket programming.
+INT202 - Discrete Mathematics
+This course introduces discrete mathematics techniques to Information Technology and Computer Engineering students. Topics  include propositional logic, predicate logic, inference, induction and other proof techniques, counting, sets, functions, recursion, relations, graphs, and trees.
+INT203 - Computer Organization
+This course covers computer arithmetic circuits, PLDs, floating point numbers, memories and memory addressing, instructions, instruction sequencing and execution, RISC/CISC CPUs, instruction format, single cycle and multiple cycle CPUs, hardwired control and microprogrammed control, assembly language and assemblers, I/O organization, interrupts, DMA, buses.
+INT209 - Data Structures
+The course covers concepts of program performance (time and space complexity); recursion; data structures: such as, lists, stacks, queues, graphs, trees, binary search trees, priority queues, heaps, and operations on them and their applications; sorting; searching and hashing.
+INT205 - Fundamentals of Data Communications and Networking
+Introduction to computer networks and the Internet: Components of data communication, data flow, data communication system, network criteria, types of connections, topologies, transmission media, parallel and serial transmission, network types, protocol and standards, protocol layers, and the OSI model. Physical layer: Data and Signals, Nyquist Bit Rate, and Shannon Capacity. Data Link Layer: Error detection and correction, multiple access, MAC addressing, switches, ARP, MAC Frame (IEEE 802.3 protocol), Wired LAN Ethernet, and WLAN (IEEE 802.11 protocol). Network Layer: Network devices, virtual circuits, routers, IP addresses, subnetting, IP protocols and routing algorithms, NAT, IP header format, ARP, and DHCP. Transport layer: UDP, TCP, and congestion control. Application layer: HTTP, FTP, SMTP, POP3, DNS, and peer-to-peer applications.
+INT302 - Database Management Systems
+This course is designed to provide theoretical and practical knowledge in database techniques. It covers database concepts, data models, data dictionary, entity relationship diagrams,  the relational data model, converting E-R models to relational model, SQL language, normalization, physical database design, and database security. Oracle software is used in the Lab.
+INT301 - Operating Systems
+This course covers the principles and concepts of modern operating systems. Topics include operating system services; operating systems structures; operating system processes (threads, synchronization, CPU scheduling, deadlocks), memory management (main memory, virtual memory), storage management (storage structures, file-system interface, and file-system implementation), operating System protection and security, and virtualization. Moreover, the course covers security issues in operating systems and the countermeasures needed to mitigate those issues.
+INT206 - Fundamentals of Web Systems
+This course introduces students to the fundamentals of client web systems technologies. Topics covered include XHTML, CSS, XML, and JavaScript. Students will apply this knowledge to generate essential web components like basic browser controls (buttons, links, and menus), forms and frames.
+INT303 - Fundamentals of Information Security
+This course introduces fundamental security concepts to students. Main security threats and related countermeasures are presented. Students will learn the importance of protecting information stored on computer systems from unauthorized access. They will also learn how to encrypt and decrypt information, control access to objects, and recommend secure system implementation.
+CYB261 - Cryptograph
+This course covers basic concepts in cryptography, including encryption/decryption, sender authentication, data integrity, non-repudiation, attack classification (ciphertext-only, known plaintext, chosen plaintext, chosen ciphertext). Topics also include symmetric cryptography (e.g., DES and AES),  asymmetric cryptography (e.g, RSA), information-theoretic security (one-time pad, Shannon Theorem), key exchange, and digital signatures.
+INT311 - Advanced Computer Networks
+This course covers the principles of networking with a focus on algorithms, protocols, and implementations for advanced networking services. A variety of ideas proposed to enhance the Internet will be examined, along with an exploration of why some of these enhancements were successful while others were not. The emphasis in this course is on topics such as medium access techniques, wireless technologies and related concepts, mobile IP and IPv4 to IPv6 transition, routing protocols, transport layer (reliability, flow, and congestion control), data center networks, advanced networking concepts, and network security.
+DAT100 - Introduction to Data Analytics
+The course provides students with a broad overview of various aspects of data analytics. It enables students to understand and apply basic data analytics techniques. Topics covered include the data life cycle, types of data, data preparation, data engineering, data mining, machine learning, model evaluation, data visualization, decision-making, and Business Intelligence (BI).
+INT430 - Artificial Intelligence
+This course introduces  the types of artificial intelligence problems and techniques such as problem-solving methods and major structures used in artificial intelligence programs.
+It includes a study of knowledge representation techniques, such as predicate logic, non-monotonic logic, and probabilistic reasoning. Additionally, the course covers application areas such as game playing, expert systems, natural language understanding, and robotics.
+INS205 - Systems Analysis and Design
+This course introduces the system development life cycle. It emphasizes  strategies and techniques of systems planning, analysis and design, documentation, implementation and evaluation. Students are expected to carry out group projects using the system development life cycle.
+CYB341 - Networks Security
+This course covers principles and techniques for network and communication security. It explains various network attacks, such as DoS and DDoS, MAC flooding and DHCP spoofing. In addition, the course covers different types of networks countermeasures, such as firewalls and NIDS, used to prevent and detect network attacks. The course also provides a detailed discussion on how security protocols, such as SSL/TLS, SSH and IPsec work. In addition, the course includes laboratory experiments on security protocols, such as SSL/TLS, SSH and IPsec, as well as experiments on conducting attacks against network protocols such as TCP, UDP and ARP. Topics include traffic sniffing attacks, DNS hacking, SYN flooding, port scanning, access control, intrusion detection systems, and firewalls.
+CBY441 - Network Defence
+This course provides an essential study of network defence, related vulnerability and security issues, and common tools available for network packet analysis and exploitations. Topics include a review of basic concepts and principles related to network defence (networking protocols and cryptography, mission assurance, network policy development and enforcement, etc.), secure network development (network access control, network hardening, implementing firewalls, VPNs, etc.), and advanced network defence techniques (honeypots, honeynets, network monitoring, implementing IDS/IPS, etc.). Moreover, this course covers advanced practical network and system security topics. The primary sections of the laboratory are divided into network security and endpoint security. The network security teaches students to secure network design concepts, configure network appliances such as switches, and understand the secure configuration of firewalls, web filtering, and advanced malware protection. The endpoint security section focuses mainly on Windows security, as most corporate networks use a majority of Windows systems. Students will also learn about Active Directory, Group Policy, patch management, endpoint hardening, and the vulnerability management cycle. These topics are taught in a practical manner with step-by-step guides on deploying the actual technology in use.
+CYB381 - Cybersecurity Policies, Laws, Ethics, and Risk Management
+This course discusses finding and controlling risks in information assets through risk identification, assessment and analysis, and control approaches. Moreover, it covers the malicious human behavioural factors that harm information systems. The course also introduces the ethical issues in cybersecurity, including the definition of ethics, major ethical stances, professional responsibility, fair information practices, codes of ethics, ethical issues in disclosing vulnerabilities, and relationship between ethics and  law.  It also presents and analyzes the dominant ethical frameworks and normative theories.
+CYB391 -  Internship
+This course provides students with the opportunity to experience the work environment before graduation. Students are required to spend a predetermined work period as an intern at an institution approved by the CY department. During this period, students will engage in cybersecurity practices with their mentors and observe and experience the cybersecurity roles in these institutions.
+CYB412  - Malware Analysis
+The objective of Malware Analysis is to provide students with the understanding and skills necessary to analyze malware, deduce its behavior, and determine how it works, as well as to support the analysis through disassembly. Students will be able to use tools (e.g., IDAPro, Ollydbg) to safely perform both static and dynamic analysis of malware, including encoded, packed, and obfuscated types. In particular, the course will include extensive hands-on labs and assignments for each knowledge unit.
+CYB451 - Security Analytics
+This course aims at monitoring and documentation networks, securing networks, thwarting malware, and preventing hacks by improving visibility into the environment, using the power of data and security. In addition, the course covers topics such as how to monitor computer networks, acquire and prepare security data, correlate security events, and use simple statistical methods to detect malware and predict rogue behavior. Furthermore, the course includes a series of laboratory experiments that provides hands-on experience in this area.
+CYB452 - Web Security
+This course aims to teach students how to build web applications using Java and other related technologies. Topics  include web application structure and programming; Applets; Servlets; Java Server Pages; tags and function libraries; filters; WebSockets; the Spring Model View Controller Framework; RESTful and Simple Object Access Protocol web services; the Java Persistence Application Programming Interface; Hibernate Object-Relational Mapping; Mapping Entities to Tables; Spring Framework Repositories. Moreover, this course introduces students to the field of web security. It covers fundamental concepts of web vulnerability exploitation, web browser design flaws, and advanced topics in web privacy and E-commerce Security. The tutorial provides hands-on experience in Web Security related to building secure web applications. Practical sessions include topics such as web programming, Simple Object Access Protocol web services, Java Persistence Application Programming Interface, Hibernate Object-Relational Mapping, Mapping Entities to Tables, Spring Framework Repositories, web vulnerability exploitation, web browser design flaws, web privacy, and E-commerce Security.
+CYB311 - Software Security
+This course introduces students the principles and best practices for building secure software. It covers software vulnerabilities, secure coding practices, software testing and verification, software security architectures, and security requirements engineering. Students will also explore threat modelling, risk assessment, and security metrics. Students will gain hands-on experience with software security tools and techniques and will learn how to build secure software systems that can withstand attacks from a variety of sources.
+INT432 - Ethical Hacking
+This course introduces the ethics and legal frameworks surrounding  ethical hacking. It explores various types of threats, including insider threat, and explains the approaches that  ethical hackers use for footprinting and reconnaissance, scanning networks, enumeration, vulnerability analysis and system hacking. Furthermore, this course consists of a set of laboratory experiments that provides hands-on experience in ethical hacking.
+CYB481 - Digital Forensics
+This course provides theoretical and practical knowledge on the principles and practices of digital forensics. It covers  sources of digital evidence, digital investigation, and the fundamentals of computer forensics.  Topics include disk examination, memory acquisition,  log analysis, as well as registry, e-mail, and database forensics. Furthermore, this course consists of a set of laboratory experiments that provide hands-on experience in digital forensics.
+CYB491 - Cybersecurity Capstone Project
+In this course, students implement, test, and present their proposed cybersecurity projects to a faculty committee.
+Program Elective Courses
+CYB321 - Database Security
+This course provides an overview of database security concepts and techniques. It covers database security models, access control and its application to database security, the multilevel secure relational model, authentication, trust management, privacy protection, and data auditing. The course also addresses the identification of  risks, threats, and vulnerabilities in database systems. Furthermore, it consists of a set of laboratory experiments that provide hands-on experience in this area.
+CYB462 - Introduction to Steganography
+This course introduces the fundamentals of steganography, covering key concepts such as digital steganography, digital steganalysis, and digital watermarking. It explores various hiding algorithms applied to different carrier files, including images, audio, and video files.  The course also introduces widely used tools for embedding and extracting hidden information. In addition, it includes a series of laboratory experiments that offer hands-on experience in this field.
+CYB351 - Cloud Computing Architecture and Security
+The course introduces students to the theory and practice of cloud computing architecture and security requirements. Topics include parallel and distributed systems, deployment and service models, cloud infrastructure, applications and paradigms, resource virtualization, resources management and scheduling, networking support, and cloud storage systems. Moreover, the course explores  secure cloud architectural aspects in depth, focusing on identifying and mitigating risks, protection and isolation of physical & logical infrastructures including compute, network and storage, comprehensive data protection across OSI layers, end-to-end identity management & access control, monitoring and auditing processes and  compliance with industry and regulatory mandates. The course aligns with cloud computing security guidelines established by ISO, NIST, ENISA, and the Cloud Security Alliance (CSA).
+CYB454 - IoT security
+This course covers the basic components of the Internet of Things (IoT) and how data is collected and analyzed from sensors. Moreover, it discusses the security issues and solutions of internet of things, explains different threats to IoT platforms and teaches students how to defend IoT devices securely.
+CYB455 - Healthcare security and privacy
+This course covers several concepts, such as an introduction to privacy and security of healthcare information systems, how to protect the confidentiality of patient information, types of access, and the appropriate availability of healthcare information to healthcare providers, concepts of limiting unauthorized access. Students will explore standards and specifications that help keep patient medical information secure in an electronic environment, common data protection issues, and exchanging clinical information between healthcare organizations. Related case studies will be used, and administrative issues will be researched and presented by students as part of the course project.
+CYB461 - Advanced Cryptography
+This course covers advanced topics in cryptography, including advanced protocols such as zero-knowledge proofs, and protocols, and secret sharing, fully homomorphic encryption, obfuscation and quantum cryptography.
+INT429 - Mobile Applications
+Mobile computing devices have become ubiquitous. This course focuses on the development of mobile solutions for various modern platforms, including major mobile operating systems such as Android and iOS. The course covers different topics such as mobile device architecture, programming languages, software engineering, user interface design, RESTful and Non-RESTful apps, creating and incorporating Web/Cloud Services, mobile Sensors and security and trust management.
+CYB472 - Operating Systems Security
+This course introduces the fundamentals of operating systems (OS) security, covering access control mechanisms, memory protections, and OS-level mechanisms (hardware and software) and policies to protect against attacks and threats such as rootkits and malware. The course also includes the concepts of virtual machines and their use to understand and analyze modern OSs, including mobile OSs, to identify OS-related risks, threats, and vulnerabilities. Furthermore, this course consists of a set of laboratory experiments that provide hands-on experience in this topic.
+CYB482 - Advanced Ethical Hacking
+This course covers advanced topics in ethical hacking, and includes advanced laboratory experiments such as malware threats and analysis, sniffing, social engineering, denial of service, session hijacking, evading security countermeasures, hacking web servers and applications, SQL injection, hacking wireless networks, hacking mobile platforms, and IoT hacking. Furthermore, this course consists of a set of laboratory experiments that provide hands-on experience in this topic.
+CYB492 - Special Topics in Cybersecurity
+The department chooses a trending topic related to the field of cybersecurity.
+CYB411 - Cyberwarfare
+This course focuses on the use of cyberspace as a domain of warfare. It covers topics such as the history and evolution of cyberwarfare, offensive and defensive cyber operations, cyber espionage, cyber terrorism, and the legal and ethical implications of cyber operations. Students will also learn about the strategic, operational, and tactical levels of cyber operations, as well as the role of international organizations and nation-states in cyber conflict. Students will also learn how to design and implement cyber operations to achieve strategic objectives.
+Cookie Warning
+This website uses cookies to enhance the user's experience. By using this website, you indicate consent to our
+privacy policy
+.
+Deny
+Accept

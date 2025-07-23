@@ -1,0 +1,42 @@
+URL: https://www.ajman.ac.ae/en/research/diabetes-and-covid-19-in-ajman-residents-moving-from-news-to-evidence-based-knowledge
+CONTENT:
+Diabetes and Covid-19 in Ajman Residents: Moving from News to Evidence-based Knowledge
+Menu
+Dean's Message
+Contact Information
+Research at AU
+Research Strategy
+Vision, Mission and Goals
+DRG Councils
+Publications
+Research Policies and Procedures
+Research Spotlight
+Info for Research Collaborations
+Local/Regional Research Competitions
+Research Ethics Committee
+Research Centers
+Graduate Studies
+Diabetes and Covid-19 in Ajman Residents: Moving from News to Evidence-based Knowledge
+Summary of the study
+Diabetes is a metabolic disease that affects more than 10% of the population worldwide. According to the international diabetes federation (IDF) 2019-statistics, the United Arab Emirates (UAE) has one of the world's highest prevalence rates of diabetes at 16.3%, with type 2 diabetes representing more than 95% of cases in over 20-year-adults. Key reasons for the high prevalence of diabetes are unhealthy lifestyle and physical inactivity.
+Throughout the Covid-19 pandemic, doctors have noticed that certain patients are at an especially high risk of developing severe illness or dying from coronavirus infection. Type 2 diabetes, a condition affecting more than 95% percent of the diabetic population, is one of the main risk factors for severe Covid-19 illness.
+Recently published articles confirmed the alarming news that people with diabetes are up to three times more likely than others to become severely ill or die of Covid-19. They showed that older age, obesity, and other medical conditions often associated with diabetes, are also associated with increased risk of illness and death. These reports from expert clinicians highlight the need for people with chronic diabetes to take extra-care to avoid infection, comply with precautionary measures, and to be vaccinated against Covid-19 (1).
+Research Team:
+The Research team comprises senior researchers from the College of Medicine- Ajman University, and Consultant Endocrinologists from
+Rashid Centre for Diabetes and Research
+, SKMCA hospital, aiming to get the relevant data, analysing it and coming out with evidence-based facts about the relationship between diabetes and its comorbidity, and Covid-19 infection and its consequences. Ethical approvals were granted from the Ministry of Health and Prevention- UAE and from the Research Ethics Committee at Ajman University.
+Research Team members
+Dr Yehia Mohamed, Associate Professor, College of Medicine, Ajman University & Project PI;
+Dr Ibrahim Bani, Associate Professor, College of Medicine, Ajman University & Project CoI.;
+Prof. Debadatta Panigrahi, Professor, College of Medicine, Ajman University & Project CoI.;
+Dr Mamoun Mukhtar, Consultant Endocrinologist, Rashid Centre for Diabetes and Research, SKMCA & CoI;
+Dr Akrem Elmalti, Consultant Endocrinologist, Rashid Centre for Diabetes and Research, SKMCA & CoI;
+Dr Eman Abu-Alrish, Associate Professor, University of Jordon, CoI.
+Objectives and health impact of the study
+Our retrospective data analysis research study on people with diabetes, who were hospitalized for Covid-19 and admitted to Sheikh Khalifa Medical City Ajman, in the last couple of years is aiming to answer important scientific questions regarding diabetes and Covid-19 infection in Ajman City population. One of these questions is whether people with type 1 diabetes (T1D) are as vulnerable as those with type 2 diabetes (T2D) to Covid-19 infection. On the other hand, more questions we need to get answers to regarding diabetes-associated diseases and their interrelation to the Covid-19 severity or mortality including; high cholesterol and triglycerides, cardiovascular diseases and increased blood pressure, renal and liver diseases, obesity and visceral fats, smoking, blood clotting disorders, chronic respiratory diseases, gender and age of the patients, and how the blood sugar level is under control using medications. All these factors have been reported to be associated with risk of progression to severe illness in Covid-19 in other parts of the world (2).
+Research outcomes
+Data collection is in progress, and key findings will be shared and published after the completion of data collection, interpretation and final report writing.
+References
+1- Hartmann-Boyce J, Morris E, Goyder C, et al. Diabetes and Covid-19: risks, management, and learnings from other national disasters. Diabetes Care 2020; 43:1695–1703.
+2- Soldo J, Heni M, Königsrainer A, et al. Increased hepatic ACE2 expressin in NAFL and diabetes-a risk for Covid-19 patients? Diabetes Care 2020; 43:134–136
+3- Lihua Zhu, Zhi-Gang She, Xu Cheng, et al., Association of Blood Glucose Control and Outcomes in Patients with Covid-19 and Pre-existing Type 2 Diabetes. Cell Metabolism 2020; 31:6: 1068-1077.
