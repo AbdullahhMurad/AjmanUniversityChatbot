@@ -1,3 +1,4 @@
+__pycache__/
+crawl/
 .env
 /env
-/crawl
