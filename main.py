@@ -7,7 +7,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from data import (
     load_vectorstore,
-    create_and_save_vectorstore,
+    create_and_save_vectorstore_with_crawl,
     get_relevant_context,
 )
 
@@ -34,7 +34,7 @@ try:
     print("Vector store loaded successfully.")
 except Exception:
     print("Vector store not found. Creating a new one...")
-    vectorstore = create_and_save_vectorstore()
+    vectorstore = create_and_save_vectorstore_with_crawl()
 
 
 @app.get("/debug-web-content")
@@ -80,7 +80,7 @@ async def chat_socket(websocket: WebSocket):
                 response = openai.chat.completions.create(
                     model="gpt-3.5-turbo",
                     messages=chat_log,
-                    temperature=0.0,
+                    temperature=0.6,
                     stream=True,
                 )
                 ai_response = ""
@@ -108,7 +108,7 @@ async def handle_post(request: Request, user_input: str = Form(...)):
     response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=chat_log,
-        temperature=0.0,
+        temperature=0.6,
     )
     bot_response = response.choices[0].message.content
     chat_log.append({"role": "assistant", "content": bot_response})
